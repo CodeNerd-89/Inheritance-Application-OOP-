@@ -1,0 +1,14 @@
+C:\Users\tahmi\OneDrive\Documents\Inheritace Application (OOP)\bin\Debug\net8.0\Inheritace Application (OOP).exe
+C:\Users\tahmi\OneDrive\Documents\Inheritace Application (OOP)\bin\Debug\net8.0\Inheritace Application (OOP).deps.json
+C:\Users\tahmi\OneDrive\Documents\Inheritace Application (OOP)\bin\Debug\net8.0\Inheritace Application (OOP).runtimeconfig.json
+C:\Users\tahmi\OneDrive\Documents\Inheritace Application (OOP)\bin\Debug\net8.0\Inheritace Application (OOP).dll
+C:\Users\tahmi\OneDrive\Documents\Inheritace Application (OOP)\bin\Debug\net8.0\Inheritace Application (OOP).pdb
+C:\Users\tahmi\OneDrive\Documents\Inheritace Application (OOP)\obj\Debug\net8.0\Inheritace Application (OOP).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tahmi\OneDrive\Documents\Inheritace Application (OOP)\obj\Debug\net8.0\Inheritace Application (OOP).AssemblyInfoInputs.cache
+C:\Users\tahmi\OneDrive\Documents\Inheritace Application (OOP)\obj\Debug\net8.0\Inheritace Application (OOP).AssemblyInfo.cs
+C:\Users\tahmi\OneDrive\Documents\Inheritace Application (OOP)\obj\Debug\net8.0\Inheritace Application (OOP).csproj.CoreCompileInputs.cache
+C:\Users\tahmi\OneDrive\Documents\Inheritace Application (OOP)\obj\Debug\net8.0\Inheritace Application (OOP).dll
+C:\Users\tahmi\OneDrive\Documents\Inheritace Application (OOP)\obj\Debug\net8.0\refint\Inheritace Application (OOP).dll
+C:\Users\tahmi\OneDrive\Documents\Inheritace Application (OOP)\obj\Debug\net8.0\Inheritace Application (OOP).pdb
+C:\Users\tahmi\OneDrive\Documents\Inheritace Application (OOP)\obj\Debug\net8.0\Inheritace Application (OOP).genruntimeconfig.cache
+C:\Users\tahmi\OneDrive\Documents\Inheritace Application (OOP)\obj\Debug\net8.0\ref\Inheritace Application (OOP).dll
